@@ -1,0 +1,16 @@
+{
+  "name": "express-routes-group",
+  "version": "1.0.3",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }, 
+  "repository": {
+    "url": "https://github.com/AsheTM/express-routes-group.git"
+  }
+}

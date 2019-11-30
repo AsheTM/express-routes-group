@@ -6,7 +6,7 @@ If you want to prefix all routes with a certain URL you can use the group method
 
 ```js
 var app = require('express');
-require('express-group-routes');
+require('express-routes-group');
  
 app
   .group("/api/v1", (router) => {
@@ -22,7 +22,7 @@ and go straight for the function:
 
 ```js
 var app = require('express');
-require('express-group-routes');
+require('express-routes-group');
  
 app
   .group((router) => {
